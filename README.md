@@ -1,5 +1,5 @@
 # hnit
-由Fusion App  打包
+由Fusion App  打包 +Lua
 湖南工学院教务Demo演示.
 适用于手机端保存登录状态
 原网站没有任何Cookie保存，返回就重新跳转登录，估计让更多人买校园网：）
