@@ -1,4 +1,4 @@
-# 无校园网+湖南工学院教务系统移动端优化Android项目演示（基于Fusion App打包与Lua）
+# 无校园网+湖南工学院教务系统移动端优化Android项目演示
 ## 项目背景
 
 基于湖南工学院教务系统原生网站，本身支持无校园网访问。
@@ -17,7 +17,7 @@ https://pan.quark.cn/s/a72fd3654005
 为解决此问题，我们利用Fusion App进行打包，并结合Lua语言开发了一个教务系统Demo。该Demo专门针对手机端使用场景优化，实现了登录状态保存功能。
 ![Stitch_20250310_125759](https://github.com/user-attachments/assets/be56759a-5b7e-4ba2-88f2-067ca2c76ae9)
 支持64arm v8 架构 位与鸿蒙
-
+（基于Fusion App打包与Lua）
 
 软件大小：3.1M
 
