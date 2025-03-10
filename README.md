@@ -17,7 +17,7 @@ https://pan.quark.cn/s/a72fd3654005
 如果你是电脑端，支持表单登录与保存，那么就不需要此项目了。
 
 ## 解决方案
-为解决此问题，我们利用Fusion App进行打包，并结合Lua语言开发了一个教务系统Demo。该Demo专门针对手机端使用场景优化，实现了登录状态保存功能。
+为解决此问题，利用Fusion App编译打包，并结合Lua语言开发了一个教务系统封装Demo。该Demo专门针对手机端使用场景优化，实现了登录状态保存功能。
 ![Stitch_20250310_125759](https://github.com/user-attachments/assets/be56759a-5b7e-4ba2-88f2-067ca2c76ae9)
 支持64arm v8 架构 位与鸿蒙
 （基于Fusion App打包与Lua）
